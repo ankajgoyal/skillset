@@ -1,0 +1,55 @@
+.listContainer {
+  padding: 20px;
+  background-color: white;
+}
+.searchContainer {
+  width: 95%;
+}
+.searchInput {
+  height: 30px;
+  padding-left: 10px;
+  width: 100%;
+}
+.card {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.text {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.text1 {
+  font-weight: bold;
+}
+.text2 {
+  color: gray;
+}
+
+.modalContainer{
+  width: 30vw;
+  height: 200px;
+  z-index: 99;
+  background-color: lightgray;
+  border: none;
+  outline: none;
+  padding:15px;
+  margin:auto;
+  margin-top: 10%;
+  border-radius: 10px;
+}
+.closeButton{
+  text-align: right;
+  cursor: pointer;
+}
+.active{
+  text-align: center;
+  margin-top: 50px;
+  color:blue;
+}
+.itemList{
+  max-height: 250px;
+  overflow: auto;
+}

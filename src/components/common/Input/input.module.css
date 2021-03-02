@@ -1,0 +1,12 @@
+.input{
+    outline: none;
+    border: none;
+    height: 30px;
+    margin-bottom: 20px;
+    padding:5px 10px;
+}
+.validationMessage{
+    color: red;
+    text-align: left;
+    margin-bottom: 10px;
+}

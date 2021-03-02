@@ -1,0 +1,18 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    padding:20px;
+}
+.buttonContainer{
+    text-align: right;
+}
+.button{
+    border: none;
+    outline: none;
+    background-color: lightskyblue;
+    color: white;
+    padding:7px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}

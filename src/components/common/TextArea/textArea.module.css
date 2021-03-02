@@ -1,0 +1,11 @@
+.textArea{
+    outline: none;
+    border: none;
+    height: 60px;
+    margin-bottom: 20px;
+    padding:5px 10px
+}
+.validationMessage{
+    text-align:left;
+    color: red;
+}
