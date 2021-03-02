@@ -24,18 +24,16 @@
 
 ### How To Run The Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### Frontend
-1.npm install 
-2.npm start
-3.Your application will be running at http://localhost:3000
+  1.npm install 
+  2.npm start
+  3.Your application will be running at http://localhost:3000
 
 ### Backend
-1.npm install
-2.npm start
-3.Make sure you have mongodb installed in your system
+  1.npm install
+  2.npm start
+  3.Make sure you have mongodb installed in your system
 
 After you have successfully run both the server and the clinet , go to localhost:3000 to interact with your application
 
