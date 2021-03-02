@@ -35,5 +35,5 @@
   2. npm start                                      
   3. Make sure you have mongodb installed in your system                        
 
-After you have successfully run both the server and the clinet , go to localhost:3000 to interact with your application
-
+After you have successfully run both the server and the client , go to localhost:3000 to interact with your application
+n
